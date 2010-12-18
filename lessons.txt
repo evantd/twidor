@@ -1,0 +1,15 @@
+# this is a comment. It will be ignored.
+# the format for this file is presently:
+# filename	number of sentences	highlighting	MCC highlighting
+# lesson1.txt	10	y	y
+# this means run 10 sentences out of the file "lesson1.txt" and call that
+# Lesson 1. highlight both regular chords, and MCC chords.
+# all extraneous whitespace is chomped, but be careful of filenames with
+# spaces in them. y/n for highlighting
+lesson1.txt	10	y	y
+lesson2.txt	10	y	y
+lesson3.txt	10	y	y
+lesson4.txt	10	y	y
+lesson5.txt	10	y	y
+lesson6.txt	10	y	y
+lesson7.txt	10	y	y
